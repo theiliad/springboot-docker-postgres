@@ -1,4 +1,4 @@
-# SpringBoot Starter REST API
+# SpringBoot + PostgreSQL + Adminer + Docker
 A starter REST setup using Spring Boot
 
 <img src="preview.jpg">
