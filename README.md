@@ -1,4 +1,4 @@
-# springboot-rest-api
+# SpringBoot Starter REST API
 A starter REST setup using Spring Boot
 
 <img src="preview.jpg">
