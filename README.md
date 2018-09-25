@@ -13,7 +13,7 @@ A starter REST setup using Spring Boot
 cd docker && docker-compose up
 ```
 2. You will find the **adminer** dashboard available on `localhost:8091`:
-<img src="preview_adminer.jpg">
+<img src="preview_adminer.jpg" width="600">
 
-3. Open this URL in your browser to get **postico** to find the DB, `postgresql://localhost:5432/my-demo-db`
-<img src="preview_postico.jpg">
+3. Open this URL in your browser to open **postico**: `postgresql://localhost:5432/my-demo-db`
+<img src="preview_postico.jpg" width="600">
