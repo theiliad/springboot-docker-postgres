@@ -15,3 +15,4 @@ cd docker && docker-compose up
 2. You will find the **adminer** dashboard available on `localhost:8091`:
 <img src="preview_adminer.jpg">
 3. Open this URL in your browser to get **postico** to find the DB, `postgresql://localhost:5432/my-demo-db`
+<img src="preview_postico.jpg">
